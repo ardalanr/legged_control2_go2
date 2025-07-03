@@ -8,15 +8,15 @@ joy_teleop:
       deadman_buttons: [ 4 ]
       axis_mappings:
         twist-angular-z:
-          axis: 0
-          scale: 6.28
+          axis: 3
+          scale: 2
           offset: 0.0
         twist-linear-x:
           axis: 7
           scale: 0.8
           offset: 0.0
         twist-linear-y:
-          axis: 3
+          axis: 6
           scale: 0.8
           offset: 0.0
 
